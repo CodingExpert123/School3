@@ -1,0 +1,18 @@
+marquee {
+font-size: 25;
+color: aqua;    
+    
+}
+body {
+ text-align: center;   
+    
+}
+li {
+   position: inline; 
+    
+}
+img {
+width: 900px;
+height: 500px;
+
+}
